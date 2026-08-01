@@ -1,3 +1,3 @@
 #EXTM3U url-tvg="https://assets.livednow.com/epg.xml"
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="新聞財經",無線新聞台
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1785534597~exp=1788126597~acl=/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=e2aefb1c9991e1c22c0f4d255a0ecc3b6f2d1e49217f357a63a9631688881932&p=3000
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1785620225~exp=1788212225~acl=/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=ff2370bceec53acf09d07d5f8ff40a4106062e4bacda5bbe4499875d09cb25ba&p=3000
